@@ -56,7 +56,7 @@
         <h1 class="mx-auto my-0 text-uppercase"><abbr title="AKHIL PRABHU BANK">AB<abbr></h1>
         <h2 class="text-white-50 mx-auto mt-2 mb-5">A secure online banking for customers to experience virtual money</h2>
         <a href="login.php" class="btn btn-info ">Login Here For Internet Banking</a>
-        <a href="create.php" class="btn btn-info js-scroll-trigger">Click Here To Create Account</a>
+        <a href="create.php" class="btn btn-info js-scroll-trigger">Click Here To Create New Account</a>
       </div>
     </div>
   </header
