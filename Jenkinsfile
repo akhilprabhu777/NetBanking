@@ -5,7 +5,7 @@ stages{
  steps{
  sh echo "Hello Jenkins Users"
  }
- }: 
+ }
 }
 }
 }
