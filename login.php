@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+#comments added in login page
 ?>
 <html lang="en">
 <head>
